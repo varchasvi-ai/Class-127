@@ -1,0 +1,38 @@
+body
+{
+    background-image: url("https://i.pinimg.com/originals/2f/f9/35/2ff935e6d96a34a59c366ab2d8af4d60.jpg");
+    background-repeat: none;
+    background-size: cover;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+img
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+}
+
+#speed_div
+{
+    float: left;
+}
+
+#volume_div
+{
+    float: right;
+}
+
+video
+{
+    margin-left: 170px;
+    height: 300px;
+}
+
+#play_pause_stop,button
+{
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
